@@ -1,0 +1,15 @@
+
+ body{
+margin: 0;
+padding: o;
+align-self: auto;
+background-color: rgb(2, 2, 48);
+}
+
+div#logo{
+    padding-top: 3rem;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
