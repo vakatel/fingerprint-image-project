@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "bson": "^4.0.2",
-    "electron": "^6.0.10",
+    "electron": "^7.2.4",
     "electron-db": "^0.15.2",
     "webcamjs": "^1.0.25"
   },
